@@ -1,0 +1,6 @@
+
+{
+  "name": "PDFLingo",
+  "description": "A web application to translate the text content of a PDF file while preserving its original layout. Users can configure a local Ollama instance or use the Gemini API for translation. All work by Alberto Arce.",
+  "requestFramePermissions": []
+}
