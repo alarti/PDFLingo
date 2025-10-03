@@ -6,7 +6,8 @@ Created by **Alberto Arce**.
 
 ---
 
-![PDFLingo Screenshot](https://storage.googleapis.com/aistudio-hosting/generative-ai-for-developers/assets/pdflingo.png)
+<img width="881" height="755" alt="image" src="https://github.com/user-attachments/assets/f4100970-b3a0-498b-bea1-ffa9193ad3f9" />
+
 
 ## ✨ Features
 
